@@ -1,0 +1,20 @@
+body{
+    background-color:plum;
+    font-size: 20px;
+}
+.photo{
+  position:absolute;
+  right:50px;
+  text-align: center;
+  display:flex;
+  
+  
+  
+}
+.head{
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style:italic;
+  font-size: 35px;
+}
